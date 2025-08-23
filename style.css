@@ -1,0 +1,8 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+.hero-bg {
+    background-image: url('images/mainmenu.jpg'); /* Path updated from ../images/mainmenu.jpg */
+    background-size: cover;
+    background-position: center;
+}
